@@ -5,3 +5,7 @@ let produtoC = {"nome": "sandália", "valor": 120.00, "internacional": false};
 console.log(produtoA);
 console.log(produtoB);
 console.log(produtoC);
+
+
+
+
